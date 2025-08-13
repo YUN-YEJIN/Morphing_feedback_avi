@@ -19,6 +19,7 @@ openCV -랜드마크 테두리도 찍고 히트맵 사진 만드는 파일
 openCV2 -델로네 삼각형 아핀 변환 만드는 파일
 
 
+
 1. 아래 코드 사용해서 라이브러리 설치
  pip install numpy
  pip install opencv-contrib-python
