@@ -3,12 +3,19 @@
 <Morphing 파일 구성>
 
 aeiou, bcdfg -원본 이미지
+
 image -보정된 이미지
+
 output -코드 실행 후 영상 파일 저장되는 곳
+
 results -각 음소별 특징점 추출(JSON)
+
 morphing.p -데이터 분석 및 규칙 생성 코드
+
 pipeline.py -모핑 프레임,영상 만드는 코드
+
 openCV -랜드마크 테두리도 찍고 히트맵 사진 만드는 파일
+
 openCV2 -델로네 삼각형 아핀 변환 만드는 파일
 
 
